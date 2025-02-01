@@ -1,5 +1,5 @@
 {
-  "name": "talentotech_backend-social-net",
+  "name": "social-network_backend",
   "version": "1.0.0",
   "description": "API REST Social Network stack MERN",
   "main": "index.js",
